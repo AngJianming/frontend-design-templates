@@ -18,3 +18,6 @@ To use by selecting the name of the branch for which the templates are named as 
 8. [Forms and Inputs](#forms-and-inputs)
 
 --- more comming soon...
+
+# If you find this repository helpful do help me star the repository
+It will keep me motivated to add more
