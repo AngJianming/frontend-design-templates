@@ -4,6 +4,9 @@ This is meant to be a storage where I compile different types of design ranging 
 <br><br>
 Do keep in mind there will be no functionalities as this repo will only be based of Frontend Designs, Animation & Effects.
 
+## How To Use?
+By changing the different brances scroll down features at the top left side of the repository.
+
 ## Table of Contents
 1. [Buttons](#buttons)
 2. [Taskbars](#taskbars)
