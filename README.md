@@ -5,7 +5,7 @@ This is meant to be a storage where I compile different types of design ranging 
 Do keep in mind there will be no functionalities as this repo will only be based of Frontend Designs, Animation & Effects.
 
 ## How To Use?
-By changing the different brances scroll down features at the top left side of the repository, by default should show `main v`.
+To use by selecting the name of the branch for which the templates are named as accordingly, at the top left side of the repository scroll down after you have clicked the branch button, by default should show `main v`.
 
 ## Table of Contents
 1. [Buttons](#buttons)
