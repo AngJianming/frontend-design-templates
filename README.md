@@ -17,7 +17,7 @@ To use by selecting the name of the branch for which the templates are named as 
 7. [Typography](#typography)
 8. [Forms and Inputs](#forms-and-inputs)
 
---- more comming soon...
+--- more comming soon... ---
 
 <!-- ### Contributions-->
 
