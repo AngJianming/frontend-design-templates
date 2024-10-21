@@ -1,4 +1,4 @@
-# My-own-css-html-design-library
+# My-own-css-html-design-template-libraries
 
 This is meant to be a storage where I compile different types of design ranging from buttons, taskbars, navigation bars, animated backgrounds, futuristic gradiant coloring and other minor personal designs I made using **HTML5** & **CSS3**.
 
