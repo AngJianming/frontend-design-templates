@@ -19,5 +19,9 @@ To use by selecting the name of the branch for which the templates are named as 
 
 --- more comming soon...
 
-# If you find this repository helpful do help me star the repository
-It will keep me motivated to add more
+<!-- ### Contributions-->
+
+# If you find this repo helpful, remember to star the repo!
+It will keep me motivated to add more in the future
+
+
