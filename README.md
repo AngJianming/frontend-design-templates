@@ -14,7 +14,7 @@ Ofcouse you could always add more buttons features if needed.
 ## **Level 1b)** Is a bit more complex but still very simple:
 ![Demo Design](/lvl1b.png "Level 1b Design")![Demo Design](/lvl1bb.png "a title")
 <br>
-similar to level 1a it has a minimalist design `Home`,`Games`, `Community`, `Settings`, `Logout` are the buttons.
+Similar to level 1a it has a minimalist design `Home`,`Games`, `Community`, `Settings`, `Logout` are the buttons. But this design is mainly made for gaming websites.
 <br>
 <br>
-In **Level 1b** there will be a slight move out ease-out feature so a `<script>` is added in the `style.css` file
+In **Level 1b** there will be a slight move out ease-out feature so a `<script>` is added in the `index.html` file.
