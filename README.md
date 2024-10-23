@@ -1,15 +1,27 @@
-# My-own-css-html-design-library
+# Top Menu Bar Designs
 
-This is meant to be a storage where I compile different types of design ranging from buttons, taskbars, navigation bars, animated backgrounds, futuristic gradiant coloring and other minor personal designs I made using **HTML5** & **CSS3**.
+This repository explores various top menu bar designs to inspire your user interface (UI) development and design.
 
-## Table of Contents
-1. [Buttons](#buttons)
-2. [Taskbars](#taskbars)
-3. [Navigation Bars](#navigation-bars)
-4. [Animated Backgrounds](#animated-backgrounds)
-5. [Futuristic Gradiants](#futuristic-gradiants)
-6. [Custom Components](#custom-components)
-7. [Typography](#typography)
-8. [Forms and Inputs](#forms-and-inputs)
+## What is a Top Menu Bar?
 
---- more comming soon...
+A top menu bar, also known as a navigation bar, is a horizontal element positioned at the top of a webpage or application window. It provides users with easy access to key functionalities and sections of the interface.
+
+## Why are Top Menu Bars Important?
+
+- **Improved Navigation:** Top menu bars offer users a clear and familiar way to navigate through your website or application.
+- **Enhanced User Experience (UX):** Well-designed top menu bars provide intuitive navigation, leading to a more positive user experience.
+- **Increased Efficiency:** By readily displaying essential options, users can quickly find what they need, improving workflow efficiency.
+
+## Types of Top Menu Bar Designs
+
+This repository showcases various top menu bar designs, categorized by their functionalities and visual styles. Here's a glimpse of what you'll find:
+
+- **Classic Dropdown Menus:** Traditional dropdowns provide access to sub-menus when hovering over a main category.
+- **Mega Menus:** Mega menus expand into a grid-like layout, displaying a wider range of options and sub-categories.
+- **Horizontal Tabs:** Use horizontal tabs for a clean and minimalist design, suitable for a limited number of navigation options.
+- **Hamburger Menus (Responsive Menus):** Primarily used for mobile responsiveness, hamburger menus utilize a three-line icon to reveal navigation options when clicked.
+- **Breadcrumbs:** Breadcrumbs offer a secondary navigation path, indicating the user's current location within the website or application hierarchy.
+<br><br>
+
+## Level 1a Design 
+![preview img](/lvl1a.png)
