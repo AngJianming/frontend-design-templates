@@ -2,7 +2,7 @@
 
 This is meant to be a storage where I compile different types of design ranging from buttons, taskbars, navigation bars, animated backgrounds, futuristic gradiant coloring and other minor personal designs I made using **HTML5** & **CSS3** and maybe some **React** & **Next.js** as well.
 <br><br>
-Do keep in mind there will be no functionalities as this repo will only be based of Frontend Designs, Animation & Effects.
+Do keep in mind that some designs will have no funcatinoalities as this repo will only be based of Frontend Designs, Animation & Effects.
 
 ## How To Use?
 To use by selecting the name of the branch for which the templates are named as accordingly, at the top left side of the repository scroll down after you have clicked the branch button, by default should show `main v`.
