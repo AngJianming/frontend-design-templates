@@ -1,6 +1,6 @@
 # My-own-frontend-dev-design-template-libraries
 
-This is meant to be a storage where I compile different types of design ranging from buttons, taskbars, navigation bars, animated backgrounds, futuristic gradiant coloring and other minor personal designs I made using **HTML5** & **CSS3** and maybe some **React** & **Next.js** as well.
+This is meant to be a storage where I compile different types of design ranging from buttons, taskbars, navigation bars, animated backgrounds, futuristic gradiant coloring and other minor personal designs I made using **HTML5** & **CSS3** and maybe some frameworks like **React**, **Next.js** & **SCSS** as well.
 <br><br>
 Do keep in mind that some designs will have no funcatinoalities as this repo will only be based of Frontend Designs, Animation & Effects.
 
