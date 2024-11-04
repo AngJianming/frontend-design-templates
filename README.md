@@ -11,11 +11,12 @@ To use by selecting the name of the branch for which the templates are named as 
 1. [Buttons](#buttons)
 2. [Taskbars](#taskbars)
 3. [Navigation Bars](#navigation-bars)
-4. [Animated Backgrounds](#animated-backgrounds)
-5. [Futuristic Gradiants](#futuristic-gradiants)
-6. [Custom Components](#custom-components)
-7. [Typography](#typography)
-8. [Forms and Inputs](#forms-and-inputs)
+4. [Sign-in/Sign-up](#Sign-in/Sign-up)
+5. [Animated Backgrounds](#animated-backgrounds)
+6. [Futuristic Gradiants](#futuristic-gradiants)
+7. [Custom Components](#custom-components)
+8. [Typography](#typography)
+9. [Forms and Inputs](#forms-and-inputs)
 
 --- more comming soon... ---
 
