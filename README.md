@@ -8,17 +8,17 @@ Do keep in mind that some designs will have no funcatinoalities as this repo wil
 To use by selecting the name of the branch for which the templates are named as accordingly, at the top left side of the repository scroll down after you have clicked the branch button, by default should show `main v`.
 
 ## Table of Contents
-1. [Buttons](#buttons)
-2. [Taskbars](#taskbars)
-3. [Navigation Bars](#navigation-bars)
-4. [Sign-in/Sign-up](#Sign-in/Sign-up)
-5. [Flexbox CSS](#Flexbox)
-6. [Grid CSS](#Footer)
-7. [Animated Backgrounds](#animated-backgrounds)
-8. [Futuristic Gradiants](#futuristic-gradiants)
-9. [Custom Components](#custom-components)
-10. [Typography](#typography)
-11. [Forms and Inputs](#forms-and-inputs)
+1. `[Buttons]`
+2. `[Taskbars]` <!--(#taskbars)-->
+3. `[Navigation Bars]` <!--(#navigation-bars)-->
+4. `[Sign-in/Sign-up]` <!--(#Sign-in/Sign-up)-->
+5. `[Flexbox CSS]` <!--(#Flexbox)-->
+6. `[Grid CSS]` <!--(#Footer)-->
+7. `[Animated Backgrounds]` <!--(#animated-backgrounds)-->
+8. `[Futuristic Gradiants]` <!--(#futuristic-gradiants)-->
+9. `[Custom Components]` <!--(#custom-components)-->
+10. `[Typography]` <!--(#typography)-->
+11. `[Forms and Inputs]` <!--(#forms-and-inputs)-->
 
 --- more comming soon... ---
 
