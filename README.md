@@ -9,8 +9,8 @@ To use by selecting the name of the branch for which the templates are named as 
 
 ## Table of Contents
 1. `[Buttons]`
-2. `[Taskbars]` <!--(#taskbars)-->
-3. `[Navigation Bars]` <!--(#navigation-bars)-->
+2. `[Side Navigation Bars]` <!--(#sidebar)-->
+3. `[Top Navigation Bars]` <!--(#navigation-bars)-->
 4. `[Sign-in/Sign-up]` <!--(#Sign-in/Sign-up)-->
 5. `[Flexbox CSS]` <!--(#Flexbox)-->
 6. `[Grid CSS]` <!--(#Footer)-->
