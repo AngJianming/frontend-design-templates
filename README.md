@@ -11,15 +11,15 @@ To use by selecting the name of the branch for which the templates are named as 
 1. `[Buttons]`
 2. `[Side Navigation Bars]` <!--(#sidebar)-->
 3. `[Top Navigation Bars]` <!--(#navigation-bars)-->
-4. `[Header and Footer]` <!-- (#headerfooter)-->
-5. `[Sign-in/Sign-up]` <!--(#Sign-in/Sign-up)-->
-6. `[Flexbox CSS]` <!--(#Flexbox)-->
-7. `[Grid CSS]` <!--(#Footer)-->
-8. `[Animated Backgrounds]` <!--(#animated-backgrounds)-->
-9. `[Futuristic Gradiants]` <!--(#futuristic-gradiants)-->
-10. `[Custom Components]` <!--(#custom-components)-->
-11. `[Typography]` <!--(#typography)-->
-12. `[Forms and Inputs]` <!--(#forms-and-inputs)-->
+4. `[Sign-in/Sign-up]` <!--(#Sign-in/Sign-up)-->
+5. `[Flexbox CSS]` <!--(#Flexbox)-->
+6. `[Grid CSS]` <!--(#Footer)-->
+7. `[Animated Backgrounds]` <!--(#animated-backgrounds)-->
+8. `[Futuristic Gradiants]` <!--(#futuristic-gradiants)-->
+9. `[Custom Components]` <!--(#custom-components)-->
+10. `[Typography]` <!--(#typography)-->
+11. `[Forms and Inputs]` <!--(#forms-and-inputs)-->
+12. `[Header and Footer]` <!-- (#headerfooter)-->
 
 --- more comming soon... ---
 
