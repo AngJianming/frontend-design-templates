@@ -7,7 +7,7 @@ Do keep in mind that some designs will have no funcatinoalities as this repo wil
 ## How To Use?
 To use by selecting the name of the branch for which the templates are named as accordingly, at the top left side of the repository scroll down after you have clicked the branch button, by default should show `main v`.
 
-## Table of Contents
+## Branches
 1. `[Buttons]`
 2. `[Side Navigation Bars]` <!--(#sidebar)-->
 3. `[Top Navigation Bars]` <!--(#navigation-bars)-->
