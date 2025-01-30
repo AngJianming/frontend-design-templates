@@ -24,4 +24,4 @@ This repository showcases various top menu bar designs, categorized by their fun
 <br><br>
 
 ## Level 1a Design 
-![preview img](/lvl2a.png)
+![preview img](/screenshots/lvl2a.png)
