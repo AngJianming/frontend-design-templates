@@ -1,3 +1,4 @@
+// Animation for top navigation bar
 const toggle = document.getElementById('toggle')
 const nav = document.getElementById('nav')
 

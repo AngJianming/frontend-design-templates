@@ -23,5 +23,5 @@ This repository showcases various top menu bar designs, categorized by their fun
 - **Breadcrumbs:** Breadcrumbs offer a secondary navigation path, indicating the user's current location within the website or application hierarchy.
 <br><br>
 
-## Level 1a Design 
+## Level 2a Design 
 ![preview img](/screenshots/lvl2a.png)
